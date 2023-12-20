@@ -1,0 +1,15 @@
+C:\Users\malio\source\repos\DI-Example\DI-Example\bin\Debug\net6.0\DI-Example.exe
+C:\Users\malio\source\repos\DI-Example\DI-Example\bin\Debug\net6.0\DI-Example.deps.json
+C:\Users\malio\source\repos\DI-Example\DI-Example\bin\Debug\net6.0\DI-Example.runtimeconfig.json
+C:\Users\malio\source\repos\DI-Example\DI-Example\bin\Debug\net6.0\DI-Example.dll
+C:\Users\malio\source\repos\DI-Example\DI-Example\bin\Debug\net6.0\DI-Example.pdb
+C:\Users\malio\source\repos\DI-Example\DI-Example\obj\Debug\net6.0\DI-Example.csproj.AssemblyReference.cache
+C:\Users\malio\source\repos\DI-Example\DI-Example\obj\Debug\net6.0\DI-Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malio\source\repos\DI-Example\DI-Example\obj\Debug\net6.0\DI-Example.AssemblyInfoInputs.cache
+C:\Users\malio\source\repos\DI-Example\DI-Example\obj\Debug\net6.0\DI-Example.AssemblyInfo.cs
+C:\Users\malio\source\repos\DI-Example\DI-Example\obj\Debug\net6.0\DI-Example.csproj.CoreCompileInputs.cache
+C:\Users\malio\source\repos\DI-Example\DI-Example\obj\Debug\net6.0\DI-Example.dll
+C:\Users\malio\source\repos\DI-Example\DI-Example\obj\Debug\net6.0\refint\DI-Example.dll
+C:\Users\malio\source\repos\DI-Example\DI-Example\obj\Debug\net6.0\DI-Example.pdb
+C:\Users\malio\source\repos\DI-Example\DI-Example\obj\Debug\net6.0\DI-Example.genruntimeconfig.cache
+C:\Users\malio\source\repos\DI-Example\DI-Example\obj\Debug\net6.0\ref\DI-Example.dll
